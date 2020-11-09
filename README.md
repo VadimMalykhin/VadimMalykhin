@@ -1,4 +1,3 @@
 ## Hi There! 💥
 
-[![GitHub @VadimMalykhin](https://img.shields.io/github/followers/VadimMalykhin?label=Follow&labelColor=000&color=333&style=for-the-badge&logo=github)](https://github.com/VadimMalykhin)
-[![Linkedin Vadim-Malykhin](https://img.shields.io/badge/-Vadim--Malykhin-white?style=for-the-badge&logo=Linkedin&logoColor=fff&color=000)](https://www.linkedin.com/in/vadim-malykhin)
+[![Linkedin @VadimMalykhi](https://img.shields.io/badge/-Follow%20-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/VadimMalykhin) [![Linkedin Vadim-Malykhin](https://img.shields.io/badge/-Follow%20Me-000?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/vadim-malykhin)
